@@ -1,0 +1,12 @@
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "Pratice_user_501",
+            "UserId": "AIDA4ZPZVIBLT2R7ZOTGL",
+            "Arn": "arn:aws:iam::879381266519:user/Pratice_user_501",
+            "CreateDate": "2024-11-13T01:47:26+00:00",
+            "PasswordLastUsed": "2024-12-30T07:30:40+00:00"
+        }
+    ]
+}
